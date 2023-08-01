@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: rgb(227, 231, 235);
+    font-size: 17px;
+}
+
+a{
+    color: aliceblue;
+}
+
+a:visited{
+    color: antiquewhite;
+}
+
+a:hover ,a:active{
+    color: bisque;
+}
